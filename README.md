@@ -2,6 +2,7 @@
 Diceware passphrase generator
 
 Gregor Ulm
+
 13 November 2015
 
 
